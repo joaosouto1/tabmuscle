@@ -21,6 +21,7 @@ Estamos trabalhando duro para trazer o melhor da comunidade de musculação para
 
 Confira as etapas do desenvolvimento do projeto e os progressos feitos até agora:
 
+- [Milestone 0: Em Construção](https://github.com/joaosouto1/tabmuscle/milestone/1?closed=1)
 - [Milestone 1: Fundação](https://github.com/joaosouto1/tabmuscle/milestone/2)
 
 ---
