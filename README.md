@@ -13,7 +13,6 @@ TabMuscle é uma plataforma baseada no conceito do TabNews, criada para atender 
 
 TabMuscle foi pensado como uma ferramenta para conectar e ajudar as pessoas a compartilharem métodos, artigos científicos e dicas de treinamento, alimentação e descanso, afinal esses são os pilares essenciais para ser mais saudável fisicamente 💪. Queremos criar um ambiente onde todos possam debater, trocar conhecimentos e se motivar.
 
-![Em Construção](https://via.placeholder.com/800x400.png?text=Em+Constru%C3%A7%C3%A3o)
 
 🚧 **Este projeto ainda está em construção!** 🚧  
 Estamos trabalhando duro para trazer o melhor da comunidade de musculação para você. Fique ligado!
